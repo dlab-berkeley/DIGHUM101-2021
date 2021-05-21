@@ -1,7 +1,6 @@
-# DIGHUM101-2020: Practicing the Digital Humanities (Practicum)
+# DIGHUM101-2021: Practicing the Digital Humanities (Practicum)
 Instructor: 
-Evan Muzzall, PhD  
-[Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
+Brooks Jessup, PhD  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
 ![dogreading](Img/giphy-dog.gif)
