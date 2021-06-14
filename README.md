@@ -1,6 +1,6 @@
 # DIGHUM101-2021: Practicing the Digital Humanities (Practicum)
 Instructor: 
-Brooks Jessup, PhD  
+J. Brooks Jessup, PhD  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
 ![dogreading](Img/giphy-dog.gif)
